@@ -15,6 +15,7 @@ INFO = {
         "r":"red",
         "g":"green",
         "b":"blue",
+        "p" : "pink"
     },
     "clouds":{
         "IBM":"IBM CLOUD",
