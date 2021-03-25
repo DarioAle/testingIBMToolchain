@@ -3,7 +3,7 @@ applications:
 - name: testing
   random-route: true
   memory: 128M
-  disk_quota: 256MB
+  disk_quota: 128MB
   buildpacks: 
   - python_buildpack
   path: .
